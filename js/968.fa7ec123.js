@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrujiayouxuan"]=self["webpackChunkrujiayouxuan"]||[]).push([[968],{9968:function(u,n,t){t.r(n),t.d(n,{default:function(){return l}});var i=function(){var u=this;u._self._c;return u._m(0)},r=[function(){var u=this,n=u._self._c;return n("div",[n("h1",[u._v("404找不到此页面")])])}],s=t(2932),e={mixins:[s.Z]},o=e,a=t(1001),c=(0,a.Z)(o,i,r,!1,null,null,null),l=c.exports},2932:function(u,n){n["Z"]={mounted(){this.$store.commit("isShowTabbar",!1)},destroyed(){this.$store.commit("isShowTabbar",!0)}}}}]);
+//# sourceMappingURL=968.fa7ec123.js.map
